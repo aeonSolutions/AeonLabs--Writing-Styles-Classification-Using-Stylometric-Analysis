@@ -12,12 +12,12 @@
 
 ### Disclaimer
 
-This is a ported version to a Jupiter notebook by [AeonLabs Solutions](https://github.com/aeonSolutions/AeonLabs--Writing-Styles-Classification-Using-Stylometric-Analysis). 
+This is a ported version to a Jupiter notebook by [AeonLabs Solutions](https://github.com/aeonSolutions). 
 
 Jupiter notebook code change log:
 
-- Running on a X64 Windows Mahine using Anaconda
-- Notebook loads a MS Word DocX file, converts it to txt, and do Writing style analysis from Hassaan-Elahi. Original python code can be found [here](https://github.com/Hassaan-Elahi/Writing-Styles-Classification-Using-Stylometric-Analysis). 
+- Running on an X64 Windows Machine using Anaconda
+- Notebook loads an MS Word DocX file, converts it to txt, and does Writing style analysis from Hassaan-Elahi. Original Python code can be found [here](https://github.com/Hassaan-Elahi/Writing-Styles-Classification-Using-Stylometric-Analysis). 
 
 <br>
 
