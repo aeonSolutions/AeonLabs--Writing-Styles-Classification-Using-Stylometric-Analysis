@@ -10,6 +10,8 @@
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 <br />
 
+[Open Scientific Reseaech](https://github.com/aeonSolutions/Open-Scientific-Research)  >> Identifying Different Writing Styles in a Document Intrinsically Using Stylometric Analysis 
+
 ### Disclaimer
 
 This is a ported version to a Jupiter notebook by [AeonLabs Solutions](https://github.com/aeonSolutions). 
