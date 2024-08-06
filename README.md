@@ -21,9 +21,7 @@ Jupiter notebook code change log:
 
 <br>
 
-**Get a Notification on every PCB update**
 
-You can fill in your [mail here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned!
 
 # Identifying Different Writing Styles in a Document Intrinsically Using Stylometric Analysis ✍️ 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2538334.svg)](https://doi.org/10.5281/zenodo.2538334)
